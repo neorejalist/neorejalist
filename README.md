@@ -72,3 +72,5 @@ When I'm not coding, you can find me at the pool table. If you’re nearby, shoo
 ---
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and reach out if you're interested in collaboration or just want to chat about tech.
+
+Footnote: This was written with the help of AI. Using AI to simplify tasks is getting a bigger and bigger part of our work, and I'm embracing it :)
