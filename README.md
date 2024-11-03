@@ -22,14 +22,26 @@ I'm a **Software Engineer** with a unique blend of **backend and frontend** expe
 ## 📈 Professional Journey
 
 - **Current Role:** Software Engineer at a SaaS company focused on solutions for construction and installation companies, and an in-house fintech project.
-- **Recent Work:** Co-created a fintech program to streamline financial management for businesses.
+- **Recent Work:** Co-created a fintech program to streamline financial management. 
 - **Mission:** I thrive on being the "bridge" between technical and non-technical domains, allowing me to deliver solutions that meet business needs while translating tech concepts clearly. This skill, rooted in my experience in high-end hospitality, gives me a unique edge in understanding client needs deeply.
 
 ---
 
+## 💳 Fintech Solution Overview
+
+I had the opportunity to co-create an innovative fintech solution designed specifically for freelancers and companies in the construction and installation sectors. This product streamlines financial transactions, enabling freelancers to receive instant payments while seamlessly transferring their invoices to our company.
+
+# Key Features:
+* Instant Payment Processing: Freelancers can access their funds immediately upon invoice submission, improving cash flow and financial stability.
+* Comprehensive Money Management: The platform effectively manages money flows between freelancers and our company, ensuring transparency and efficiency.
+* Company Details and Credit Reports: It provides crucial information about both parties involved in the transaction, including credit reports, helping to mitigate risks and foster trust.
+* Client Onboarding and Verification: Our solution simplifies the onboarding process for new clients, integrating robust verification processes that enhance security and compliance.
+
+This fintech product not only facilitates timely payments but also empowers freelancers with the tools they need to manage their invoices effectively, ultimately contributing to a healthier freelance ecosystem.
+
 ## 🎯 Achievements & Milestones
 
-- Balancing a **Bachelor’s study** (Year 4) alongside professional development, work, and parenthood.
+- Balancing a **Bachelor’s study** (currently year 4) alongside professional development, work, and parenthood.
 - **Associate Degree in Informatics** from Avans Breda.
 
 ---
